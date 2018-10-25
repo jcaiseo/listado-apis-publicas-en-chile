@@ -66,6 +66,8 @@
 
 - [API Tiempo Meteored.cl](http://api.meteored.cl/): La Api de Meteored.cl es una aplicación con la que usted puede obtener la predicción meteorológica de las localidades que desee a diario.
 
+- [Calidad del Aire](https://sinca.mma.gob.cl/index.php/json/listadomapa/): Obtiene los indicadores de calidad del aire de todo el pais.
+
 
 ---
 
